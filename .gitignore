@@ -1,0 +1,49 @@
+# Virtual environment
+venv/
+*.env
+
+# Python cache files
+*.pyc
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# CSV files
+*.csv 
+
+# PDF files
+*.pdf 
+
+# Data folder and files
+data/*
+Data/*
+*.data
+
+# raw data folder
+data/raw/
+
+# feature selection file
+notebook/03_feature_selection.ipynb
+
+#models folder
+models/knn_model.pkl
+models/logistic_model.pkl
+models/calibrated_decision_tree_model.pkl
+models/calibrated_xgboost_model.pkl
+calibrated_decision_tree_model.pkl
+calibrated_xgboost_model.pkl
+calibrated_xgboost_model_threshold.pkl
+# scripts folder
+scripts/calibration_wrong.py
+scripts/ensemble2.py
+scripts/ensemble3.py
+scripts/logistic_regression_model.py
+scripts/knn_model.py
