@@ -1,5 +1,5 @@
-# diabetes_prediction
-# Machine Learning Model Calibration Project
+
+# Machine Learning Model Calibration Project for Diabetes Prediction
 
 This project focuses on training and calibrating multiple classification models to improve probability estimates. It includes data preprocessing, model training and calibration.
 
