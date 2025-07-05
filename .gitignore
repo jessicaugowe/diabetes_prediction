@@ -47,4 +47,3 @@ scripts/ensemble2.py
 scripts/ensemble3.py
 scripts/logistic_regression_model.py
 scripts/knn_model.py
-scripts/decision_tree_model.py
