@@ -23,9 +23,9 @@ Thumbs.db
 *.pdf 
 
 # Data folder and files
-#data/*
-#Data/*
-#*.data
+data/*
+Data/*
+*.data
 
 # raw data folder
 data/raw/
